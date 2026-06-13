@@ -23,7 +23,7 @@ int main(void) {
     }
 
     long long x, y;
-    scanf("%I64d %I64d", &x, &y);
+    scanf("%lld %lld", &x, &y);
 
     int invalid = 0;
 
@@ -47,7 +47,7 @@ int main(void) {
     if (invalid) {
         printf("INVALID\n");
     } else {
-        printf("SECRET %I64d\n", secret);
+        printf("SECRET %lld\n", secret);
     }
 
     return 0;
