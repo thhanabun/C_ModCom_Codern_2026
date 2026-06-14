@@ -1,0 +1,2 @@
+Euclidean: 25.00
+Manhattan: 35

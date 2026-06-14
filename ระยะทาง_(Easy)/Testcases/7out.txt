@@ -1,0 +1,2 @@
+Euclidean: 13.00
+Manhattan: 17
