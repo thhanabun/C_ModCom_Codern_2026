@@ -1,0 +1,2 @@
+Euclidean: 14.14
+Manhattan: 20

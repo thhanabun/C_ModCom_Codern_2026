@@ -1,0 +1,2 @@
+Euclidean: 2828.43
+Manhattan: 4000
