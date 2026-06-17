@@ -5,6 +5,6 @@ int main()
     int g;
     scanf("%d", &g);
 
-    printf("%d", b == 0);
+    printf("%d", g == 0);
     return 0;
 }
